@@ -17,7 +17,7 @@ Version 0.16 (unreleased)
 
 The following authors contributed for the first time. Thank you so much! 🤩
 
-* nobody yet
+* `Amaia Benitez`_
 
 The following authors had contributed before. Thank you for sticking around! 🤘
 
@@ -47,6 +47,7 @@ Detailed list of changes
 ^^^^^^^^^^^^
 
 - When anonymizing the date of a recording, MNE-BIDS will no longer error during `~mne_bids.write_raw_bids` if passing a `~mne.io.Raw` instance to ``empty_room``, by `Daniel McCloy`_ (:gh:`1270`)
+- Fixed a KeyError in the `_channels_tsv()` function when using the `write_raw_bids()` command for OPM data by expanding the list of supported OPM channels in `get_coil_types()`, by `Amaia Benitez`_ (gh:1222:)
 
 ⚕️ Code health
 ^^^^^^^^^^^^^^
