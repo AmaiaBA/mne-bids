@@ -39,6 +39,7 @@
 .. _Denis Engemann: https://github.com/dengemann
 .. _Bruno Hebling Vieira: https://github.com/bhvieira
 .. _Daniel McCloy: http://dan.mccloy.info
+.. _Amaia Benitez: https://github.com/AmaiaBA
 .. _Moritz Gerster: http://moritz-gerster.com
 .. _Laetitia Fesselier: https://github.com/laemtl
 .. _Jonathan Vanhoecke: https://sfb-retune.de/people/jonathan-vanhoecke/
